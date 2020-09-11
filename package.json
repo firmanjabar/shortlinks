@@ -1,13 +1,13 @@
 {
-  "name": "@reactjs-id/shortlinks",
+  "name": "@firmanjabar/shortlinks",
   "version": "1.0.0",
-  "description": "Collection of shortlinks for reactjs.id",
+  "description": "Collection of shortlinks for firmanjabar.my.id",
   "main": "N/A",
-  "repository": "https://github.com/reactjs-id/shortlinks.git",
-  "author": "ReactJS Indonesia <reactorg.id@gmail.com>",
+  "repository": "https://github.com/firmanjabar/shortlinks.git",
+  "author": "Firman Abdul Jabar <hi@firmanjabar.my.id>",
   "license": "UNLICENSED",
   "private": true,
-  "baseUrl": "https://s.reactjs.id",
+  "baseUrl": "https://s.firmanjabar.my.id",
   "scripts": {
     "shorten": "netlify-shortener"
   },
